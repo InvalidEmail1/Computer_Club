@@ -1,0 +1,16 @@
+body {
+  background: pink;
+}
+h1 {
+  background: #ff0000;
+  color: #ffffff;
+}
+
+p {
+  background: #0000ff;
+  color: #009900;
+}
+
+span {
+  color: red;
+}
